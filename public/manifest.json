@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Text Expander",
+  "name": "Text Expander",
   "icons": [
     {
       "src": "favicon.ico",
